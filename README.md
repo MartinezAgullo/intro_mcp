@@ -2,6 +2,8 @@
 
 MCP Chat is a command-line interface application that enables interactive chat capabilities with AI models through the Anthropic API. The application supports document retrieval, command-based prompts, and extensible tool integrations via the MCP (Model Control Protocol) architecture.
 
+Original scripts from Anthropic's (Introduction to Model Context Protocol)[https://anthropic.skilljar.com/introduction-to-model-context-protocol/] course.
+
 ## Prerequisites
 
 - Python 3.9+
